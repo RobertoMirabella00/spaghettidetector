@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpaghettiDetector</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Detect</string>
+    <string name="title_notifications">Archivio</string>
+    <string name="Classifica">Classifica</string>
+    <string name="Rileva">Rileva</string>
+</resources>

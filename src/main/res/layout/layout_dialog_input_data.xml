@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextTemperaturePlate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Temperatura di Piatto"/>
+    <EditText
+        android:id="@+id/editTextTemperatureNozzle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Temperatura di Nozzle"/>
+    <EditText
+        android:id="@+id/editTextPrintVelocity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Velocità di stampa"/>
+
+</LinearLayout>
